@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dogs_coroutines</string>
+    <string name="button_text_doggy">Собачка!</string>
+</resources>
